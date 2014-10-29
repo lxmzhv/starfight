@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-05 21:41+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cpp/ui.cpp:235
+msgid "_Game"
+msgstr ""
+
+#: cpp/ui.cpp:236
+msgid "_Action"
+msgstr ""
+
+#: cpp/ui.cpp:237
+msgid "_Display"
+msgstr ""
+
+#: cpp/ui.cpp:238
+msgid "_Help"
+msgstr ""
+
+#: cpp/ui.cpp:239
+msgid "_New"
+msgstr ""
+
+#: cpp/ui.cpp:239
+msgid "New game"
+msgstr ""
+
+#: cpp/ui.cpp:240
+msgid "_Quit"
+msgstr ""
+
+#: cpp/ui.cpp:240
+msgid "Quit"
+msgstr ""
+
+#: cpp/ui.cpp:243
+msgid "_Pause"
+msgstr ""
+
+#: cpp/ui.cpp:243
+msgid "Pause"
+msgstr ""
+
+#: cpp/ui.cpp:244
+msgid "_Preferences"
+msgstr ""
+
+#: cpp/ui.cpp:244
+msgid "Preferences"
+msgstr ""
+
+#: cpp/ui.cpp:339
+msgid "Star Fight"
+msgstr ""

@@ -1,0 +1,92 @@
+# Russian language for game StarFight.
+# Copyright (C) 2008 Alexey Mozhaev
+# This file is distributed under the same license as the Star Fight package.
+# Alexey Mozhaev <lxmzhv@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-05 21:41+0400\n"
+"PO-Revision-Date: 2008-06-29 16:01+0400\n"
+"Last-Translator: Alexey Mozhaev <lxmzhv@gmail.com>\n"
+"Language-Team: Russian <lxmzhv@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cpp/ui.cpp:235
+msgid "_Game"
+msgstr "_Игра"
+
+#: cpp/ui.cpp:236
+msgid "_Action"
+msgstr "_Действия"
+
+#: cpp/ui.cpp:237
+msgid "_Display"
+msgstr "_Отображение"
+
+#: cpp/ui.cpp:238
+msgid "_Help"
+msgstr "_Помощь"
+
+#: cpp/ui.cpp:239
+msgid "_New"
+msgstr "_Новая"
+
+#: cpp/ui.cpp:239
+msgid "New game"
+msgstr "Новая игра"
+
+#: cpp/ui.cpp:240
+msgid "_Quit"
+msgstr "_Выход"
+
+#: cpp/ui.cpp:240
+msgid "Quit"
+msgstr "Выход"
+
+#: cpp/ui.cpp:243
+msgid "_Pause"
+msgstr "_Пауза"
+
+#: cpp/ui.cpp:243
+msgid "Pause"
+msgstr "Пауза"
+
+#: cpp/ui.cpp:244
+msgid "_Preferences"
+msgstr "_Настройки"
+
+#: cpp/ui.cpp:244
+msgid "Preferences"
+msgstr "Настройки"
+
+#: cpp/ui.cpp:339
+msgid "Star Fight"
+msgstr ""
+
+#~ msgid "Alexey Mozhaev"
+#~ msgstr "Алексей Можаев"
+
+#~ msgid "License"
+#~ msgstr ""
+#~ "Уголки - это свободная программа; вы можете распространять и/или изменять "
+#~ "её на условиях GNU General Public License version 2, которая опубликована "
+#~ "организацией Free Software Foundation.\n"
+#~ "\n"
+#~ "Игра Уголки распространяется с надеждой, что она будет полезна, однако "
+#~ "БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ. Более подробную информацию вы можете найти в "
+#~ "тексте GNU General Public License.\n"
+#~ "\n"
+#~ "Вы должны были получить копию GNU General Public License вместе с "
+#~ "программой Уголки; если нет, то вы можете получить копию, написав письмо "
+#~ "по адресу: Free Software Foundation, Inc., 51 Franklin Street, Fifth "
+#~ "Floor, Boston, MA  02110-1301  USA"
+
+#~ msgid "Rules"
+#~ msgstr "Правила"
+
+#~ msgid "Draw"
+#~ msgstr "Ничья"
